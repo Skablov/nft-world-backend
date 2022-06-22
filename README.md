@@ -22,7 +22,7 @@
 
 #### Setup on local machine
 
-**WARNING!** Current confifuration of docker-compose collects Docker logs through Loki, [read about this](#Docker logging) before moving forward.
+**WARNING!** Currrent confifuration of docker-compose collects Docker logs through Loki, [read about this](#Docker logging) before moving forward.
 
 1. Install [Docker](https://docs.docker.com/engine/install/) and [Docker composer](https://docs.docker.com/compose/install/).
 
