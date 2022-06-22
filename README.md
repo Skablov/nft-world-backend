@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>
-    A digital art <a href="https://millionpieces.io/">project</a> consisting 10.000 individual NFT tokents
+    A digital  art <a href="https://millionpieces.io/">project</a> consisting 10.000 individual NFT tokents
   </strong>
 </p>
 
